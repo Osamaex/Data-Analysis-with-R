@@ -6,5 +6,5 @@
 ######  [Kaggle Notebook Here](https://www.kaggle.com/code/osamasarm/mapping-causes-of-death)
 #### 3. [World Deaths and Causes](https://github.com/Osamaex/Data-Analysis-with-R/blob/main/World_Death_Causes.R)
 ######  [Kaggle Notebook Here](https://www.kaggle.com/code/osamasarm/a-look-into-world-deaths-causes)
-#### 4. [Text Mining with R](https://github.com/Osamaex/Data-Analysis-with-R/blob/main/Text%20Mining%20with%20R.R)
+#### 4. [Introductory to Text Mining with R](https://github.com/Osamaex/Data-Analysis-with-R/blob/main/Text%20Mining%20with%20R.R)
 ######  [Kaggle Notebook Here](https://www.kaggle.com/code/osamasarm/text-mining-with-r)
